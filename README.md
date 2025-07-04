@@ -1,1 +1,1 @@
-# Machine_leaening_fundamentals
+# Machine_learning_fundamentals
