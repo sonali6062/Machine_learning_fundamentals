@@ -1,21 +1,20 @@
 # Machine_learning_fundamentals
 
-```markdown
-# Machine Learning Fundamentals
+
 
 Welcome to the **Machine Learning Fundamentals** repository!  
 This project provides a hands-on introduction to core machine learning algorithms and concepts using Python. It’s ideal for students, self-learners, and anyone who wants to solidify their understanding of supervised and unsupervised learning from scratch.
-## 📁 Project Structure
+
 
 ```
-
+##  Project Structure
 Machine\_learning\_fundamentals/
-├── data/               # Datasets used in exercises and demos
-├── notebooks/          # Jupyter notebooks with step-by-step code and explanations
-├── src/                # Python scripts for modular implementation
-├── visualizations/     # Charts and plots generated during model evaluation
-├── requirements.txt    # List of Python dependencies
-└── README.md           # Project overview and setup guide
+data/               # Datasets used in exercises and demos
+notebooks/          # Jupyter notebooks with step-by-step code and explanations
+src/                # Python scripts for modular implementation
+visualizations/     # Charts and plots generated during model evaluation
+requirements.txt    # List of Python dependencies
+README.md           # Project overview and setup guide
 
 ````
 
