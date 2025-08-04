@@ -5,9 +5,6 @@
 
 Welcome to the **Machine Learning Fundamentals** repository!  
 This project provides a hands-on introduction to core machine learning algorithms and concepts using Python. It’s ideal for students, self-learners, and anyone who wants to solidify their understanding of supervised and unsupervised learning from scratch.
-
----
-
 ## 📁 Project Structure
 
 ```
@@ -22,7 +19,7 @@ Machine\_learning\_fundamentals/
 
 ````
 
----
+
 
 ## 📚 Topics Covered
 
