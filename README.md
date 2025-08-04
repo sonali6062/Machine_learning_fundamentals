@@ -58,7 +58,7 @@ git clone https://github.com/sonali6062/Machine_learning_fundamentals.git
 cd Machine_learning_fundamentals
 ````
 
-### 2. Create a Virtual Environment (Recommended)
+### 2. Create a Virtual Environment (Optional)
 
 ```bash
 python -m venv venv
@@ -103,19 +103,9 @@ This repository was created to:
 
 ---
 
----
-
-## 👩‍💻 Author
-
-**Sonali Kumar**
-GitHub: [@sonali6062](https://github.com/sonali6062)
-
----
-
 ## ⭐️ Support
 
 If you find this project useful, consider starring ⭐ the repository to support the work and help others discover it.
 
-```
 
 
